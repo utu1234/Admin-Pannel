@@ -146,5 +146,7 @@ MIT License
 
 This combined README will look professional on GitHub and guide anyone through both **backend and frontend setup** without confusion.  
 
+------
+
 
 
