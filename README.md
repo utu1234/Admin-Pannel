@@ -23,6 +23,43 @@ It provides an **Admin Dashboard** to manage:
 - Centralized Error Handling
 - CORS Enabled for API calls
 
+
+🎯 Purpose
+The goal of this project is to create a centralized admin system where the administrator can:
+
+Manage doctors and patients
+
+View and schedule appointments
+
+Handle products and coupon codes
+
+Manage wallet transactions, refunds, and referrals
+
+Monitor healthcare concerns and specialties
+
+
+
+
+🔹 Key Highlights
+Authentication & Authorization – Secure login system using JWT.
+
+Dynamic Dashboard – Real-time updates from backend API.
+
+Scalable API Architecture – Separate route files for each module (doctors, patients, etc.).
+
+File Upload Support – For profile pictures, product images, etc.
+
+Error Handling – Centralized and consistent across API.
+
+Mobile Responsive UI – Works on desktops, tablets, and smartphones.
+
+
+
+
+
+
+
+
 ### 🔹 Frontend (React.js)
 - Responsive Dashboard UI
 - Sidebar Navigation
