@@ -134,7 +134,7 @@ Other: CORS, dotenv
 
 
 github-link-https://github.com/utu1234/Admin-Pannel.git
-vercel-link-
+vercel-link-https://admin-pannel-gamma.vercel.app/
 
 
 
